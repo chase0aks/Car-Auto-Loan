@@ -6,12 +6,11 @@ The Loan Calculator is a user-friendly Python application designed to assist you
 
 ## Features
 
-### Calculate missing loan parameters based on the information you provide.
-
+- Calculate missing loan parameters based on the information you provide.
 - Input fields for Principal, Monthly Payment, Annual Interest Rate, Loan Term, and Down Payment.
 - User-friendly graphical interface.
 - Robust error handling for invalid input values.
-- Real-time calculation of missing parameters as you input data.
+- Calculate loan parameters by entering data and clicking the "Calculate" button.
 
 ## Getting Started
 
@@ -31,8 +30,8 @@ The Loan Calculator is a user-friendly Python application designed to assist you
 
 This application relies on the following Python libraries:
 
-- `tkinter` for creating the graphical user interface.
-- `math` for performing complex mathematical calculations.
+- `tkinter`: Used for creating the graphical user interface.
+- `math`: Used for performing complex mathematical calculations.
 
 Please make sure you have these libraries available in your Python environment. `tkinter` is typically included with standard Python installations, but you may need to install it separately if it's not available.
 
@@ -40,6 +39,6 @@ Please make sure you have these libraries available in your Python environment. 
 
 This project is licensed under the MIT License. Refer to the [LICENSE](LICENSE) file for complete details.
 
----
+## Happy Calculating!
 
 Feel free to explore and use the Loan Calculator to enhance your financial planning and decision-making.
